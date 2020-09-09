@@ -4,6 +4,7 @@ Templates and other resources for the digital whiteboard Miro
 ## Team Beading (Bügelperlen)
 A template for Miro for a cooperative Warm Up game.
 Small groups of people can cooperatively create a beading art (Bügelperlen) in 3 minutes.
+
 ![Screenshot Team Beading](./TeamBeading/Team Beading Screenshot.png)
 
 ## How to use the Miro Templates
