@@ -69,12 +69,11 @@ Spin to find out what kind of story is wanted:
 This repo contains an **.rtb file** – a Miro board export (Real-Time Board backup).
 
 To use it:
-
 1. Download the `.rtb` file from this repo (this is a backup of the Miro board)
 1. Open [Miro](https://miro.com) and go to your dashboard
 2. Click **"+ Create New"** → **"Import"** → **"Import Backup"** (or use the import option in your team workspace)
 3. Select the `.rtb` file you downloaded
-4. Miro recreates the full board – ready to spin 🎡
+4. Miro recreates the full board – ready to spin
 
 
 ## License
